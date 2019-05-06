@@ -1,0 +1,7 @@
+* Domain Events
+* Referenzieren via ids
+* Kunde brauch Adresse und Monthly package
+* Exception Handling
+* Transaktionshandling
+* Doppelte Transaktionen (für member und Monat)
+* Equality
